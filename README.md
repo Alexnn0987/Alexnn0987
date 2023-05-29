@@ -35,6 +35,7 @@
 
 + [Синий луг (flexbox)](https://alexnn0987.github.io/layout-1__flexbox/)
 + [Синий луг (grid)](https://alexnn0987.github.io/layout-2__grid/)
++ [hiBrain - Доска объявлений](https://alexnn0987.github.io/layout-3__new-hiBrain/)
 
 <!-- <img align="left" alt="HTML" width="26px" src="" />
 <img align="left" alt="CSS" width="26px" src="" />
