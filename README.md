@@ -47,11 +47,11 @@
 ## Как связаться со мной
 ------------------
 <div align="center">  
-<a href="https://telegram.com/https://t.me/Alexnn0987" target="_blank"><img src="https://img.shields.io/badge/telegram-%2337aee2.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt=telegram style="margin-bottom: 5px;" /></a>
-<a href="https://github.com/https://www.github.com/Alexnn0987" target="_blank">
+<a href="https://t.me/Alexnn0987" target="_blank"><img src="https://img.shields.io/badge/telegram-%2337aee2.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt=telegram style="margin-bottom: 5px;" /></a>
+<a href="http://www.instagram.com/alexnn0987" target="_blank"><img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
+<a href="https://www.github.com/Alexnn0987" target="_blank">
 <img src="https://img.shields.io/badge/github-%23252525.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" /></a>
-<a href="https://www.codepen.io/https://www.codepen.io/alexnn0987" target="_blank"><img src="https://img.shields.io/badge/codepen-%23333333.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=codepen style="margin-bottom: 5px;" /></a>
-<a href="http://www.instagram.com/http://www.instagram.com/alexnn0987" target="_blank"><img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
+<a href="https://www.codepen.io/alexnn0987" target="_blank"><img src="https://img.shields.io/badge/codepen-%23333333.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=codepen style="margin-bottom: 5px;" /></a>
 </div>
 
 <br />
@@ -69,18 +69,11 @@
 <br />
 <br />
 
-
-
-
-
-
-
-
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=Alexnn0987)
 
-</div>
+
+
+
 
 <!-- ## Мои проекты
 ------------------
