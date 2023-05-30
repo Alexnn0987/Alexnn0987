@@ -66,16 +66,21 @@
 * <a href="https://alexnn0987.github.io/layout-4__ads-hiBrain/" target="_blank">hiBrain - Объявления</a> - <a href="https://github.com/Alexnn0987/layout-4__ads-hiBrain" target="_blank">( исходный код )</a>
 * <a href="https://alexnn0987.github.io/layout-5__Sputnik-adaptiv/" target="_blank">Sputnik</a> - <a href="https://github.com/Alexnn0987/layout-5__Sputnik-adaptiv" target="_blank">( исходный код )</a>
 
+<br />
+<br />
+
+
+
+
+
+
+
 
 <div align="center">
+
 ![](https://komarev.com/ghpvc/?username=Alexnn0987)
+
 </div>
-
-
-
-
-
-
 
 <!-- ## Мои проекты
 ------------------
@@ -116,6 +121,14 @@
 <a href="http://www.instagram.com/alexnn0987" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> -->
 <!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexnn0987&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
+<!-- ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Alexnn0987"><img src="https://github-readme-stats.vercel.app/api?username=Alexnn0987&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alexnn0987's GitHub stats" /></a>
+
+<a href="http://www.github.com/Alexnn0987"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexnn0987&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Alexnn0987" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexnn0987&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 
