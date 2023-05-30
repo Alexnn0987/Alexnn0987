@@ -1,99 +1,121 @@
 
-### Привет 👋, я Алексей ( Hi there 👋, I'm Alexey )
+# Привет 👋, я Алексей 
 
+
+## Я Frontend developer
+------------------
+
+Я изучаю программирование с 2021 года. Начинал свое обучение с HTML5, CSS3 и постепенно увлекся фронтэнд-разработкой.
+
+* 💻  Мне нравится писать код.
+* ✒️  Я постоянно учусь новому
+* ✉️  Моя почта для связи [alexnn0987@mail.ru](mailto:alexnn0987@mail.ru)
+* 🚀  В настоящее время работаю над проектом [bruneco](http://github.com/lad-academy/bruneco)
+* 🧠  На данный момент изучаю React
+
+<br />
+<br />
+
+## Мои Hard skills
+------------------
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
+
+
+
+<br />
+<br />
+
+## В процессе изучения
+------------------
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<!-- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> -->
+<!-- <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a> -->
+<!-- <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> -->
+
+<br />
+<br />
+
+## Как связаться со мной
+------------------
+<div align="center">  
+<a href="https://telegram.com/https://t.me/Alexnn0987" target="_blank"><img src="https://img.shields.io/badge/telegram-%2337aee2.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt=telegram style="margin-bottom: 5px;" /></a>
+<a href="https://github.com/https://www.github.com/Alexnn0987" target="_blank">
+<img src="https://img.shields.io/badge/github-%23252525.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" /></a>
+<a href="https://www.codepen.io/https://www.codepen.io/alexnn0987" target="_blank"><img src="https://img.shields.io/badge/codepen-%23333333.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=codepen style="margin-bottom: 5px;" /></a>
+<a href="http://www.instagram.com/http://www.instagram.com/alexnn0987" target="_blank"><img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
+</div>
+
+<br />
+<br />
+
+## Мои проекты
+------------------
+
+* <a href="https://alexnn0987.github.io/layout-1__flexbox/" target="_blank">Синий луг (flexbox)</a> - <a href="https://github.com/Alexnn0987/layout-1__flexbox" target="_blank">( исходный код )</a>
+* <a href="https://alexnn0987.github.io/layout-2__grid/" target="_blank">Синий луг (grid)</a> - <a href="https://github.com/Alexnn0987/layout-2__grid" target="_blank">( исходный код )</a>
+* <a href="https://alexnn0987.github.io/layout-3__new-hiBrain/" target="_blank">hiBrain - Доска объявлений</a> - <a href="https://github.com/Alexnn0987/layout-3__new-hiBrain" target="_blank">( исходный код )</a>
+* <a href="https://alexnn0987.github.io/layout-4__ads-hiBrain/" target="_blank">hiBrain - Объявления</a> - <a href="https://github.com/Alexnn0987/layout-4__ads-hiBrain" target="_blank">( исходный код )</a>
+* <a href="https://alexnn0987.github.io/layout-5__Sputnik-adaptiv/" target="_blank">Sputnik</a> - <a href="https://github.com/Alexnn0987/layout-5__Sputnik-adaptiv" target="_blank">( исходный код )</a>
+
+
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=Alexnn0987)
+</div>
 
 
-## Я фронтенд-разработчик ( I am a frontend developer ).
-+ I like writing code.
-+ I am constantly learning new things.
-+ I like doing sports.
 
+
+
+
+
+<!-- ## Мои проекты
+------------------
++ [Синий луг (flexbox)](https://alexnn0987.github.io/layout-1__flexbox/) - [( исходный код )](https://github.com/Alexnn0987/layout-1__flexbox)
++ [Синий луг (grid)](https://alexnn0987.github.io/layout-2__grid/) - [( исходный код )](https://github.com/Alexnn0987/layout-2__grid)
++ [hiBrain - Доска объявлений](https://alexnn0987.github.io/layout-3__new-hiBrain/) - [( исходный код )](https://github.com/Alexnn0987/layout-3__new-hiBrain)
++ [hiBrain - Объявления](https://alexnn0987.github.io/layout-4__ads-hiBrain/) - [( исходный код )](https://github.com/Alexnn0987/layout-4__ads-hiBrain)
++ [Sputnik](https://alexnn0987.github.io/layout-5__Sputnik-adaptiv/) - [( исходный код )](https://github.com/Alexnn0987/layout-5__Sputnik-adaptiv) -->
+
+<!-- ## My Skill Set
+### Frontend  
+<div align="center">   -->
+<!-- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="50" alt="Figma" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  -->
+ 
+<!-- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>   -->
+<!-- </div> -->
+<!-- ## Connect with me  
+<a href="https://instagram.com/http://www.instagram.com/alexnn0987" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 <br />
-<br />
-
-## Как связаться со мной ( How to contact me ):
-
-[ <img align="left" alt="Alex | telegram" width="28px" margin="10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" /> ](https://t.me/Alexnn0987)
-
-<br />
-<br />
-
-## Мои стек технологии ( My hard skills ):
-
-<img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=FF6347"/>
-<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-
-<br />
-<br />
-
-## My projects (Мои проекты):
-
-+ [Синий луг (flexbox)](https://alexnn0987.github.io/layout-1__flexbox/) - [исходники - sources](https://github.com/Alexnn0987/layout-1__flexbox)
-+ [Синий луг (grid)](https://alexnn0987.github.io/layout-2__grid/) - [исходники - sources](https://github.com/Alexnn0987/layout-2__grid)
-+ [hiBrain - Доска объявлений](https://alexnn0987.github.io/layout-3__new-hiBrain/) - [исходники - sources](https://github.com/Alexnn0987/layout-3__new-hiBrain)
-
-<!-- <img align="left" alt="HTML" width="26px" src="" />
-<img align="left" alt="CSS" width="26px" src="" />
-<img align="left" alt="JavaScript" width="26px" src="" />
-<img align="left" alt="React" width="26px" src="" /> 
+<a href="https://t.me/Alexnn0987" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" width="32" height="32" /></a>
+<a href="https://www.github.com/Alexnn0987" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.codepen.io/alexnn0987" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/alexnn0987" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> -->
+<!-- ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexnn0987&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 
 
-
-<!--
-**Alexnn0987/Alexnn0987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- Для стека технологий шаблон - <img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/> -->
-<!-- https://shields.io/category/build -->
-<!-- https://simpleicons.org/?q=html -->
-
-
-
-
-<!-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60px" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="70px" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="55px" /><img src="https://coderoll.net/templates/coderoll_new/images/cats/js.png" width="60px" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="70px"> -->
-
-
-
-
-
-
-
-
-<!-- <img src="https://icon-library.com/images/html-5-icon/html-5-icon-2.jpg" width="70px">
-
-<img src="https://e7.pngegg.com/pngimages/853/108/png-clipart-web-development-cascading-style-sheets-css3-html-web-design-axe-logo-blue-text.png" width="70px">
-
-<img src="https://uploads-ssl.webflow.com/63d2d31c94264739ea496e71/63daf42b1319e37b9e6c1d4a_figma.webp" width="70px">
-
-<img src="https://preview.redd.it/8mx2wdq04h271.png?width=1080&crop=smart&auto=webp&v=enabled&s=e845cc25e5938f75861a42293b753a7dba89fd92" width="70px">
-
-<img src="https://res.cloudinary.com/teepublic/image/private/s--P4QZG89a--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1542411723/production/designs/3517883_0.jpg" width="70px">
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76aVIo4u18ZBAVWU79QkDQ6uvKUjF4leJ7g&usqp=CAU" width="70px">
-
-
-<img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T210A2PA4301PT17X28Y17D1012053732W27513H33020/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/javascript-wordcloud-shirt-for-js-logo-mens-t-shirt.jpg" width="70px">
-
-
-
-<img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon.png" width="70px"> -->
