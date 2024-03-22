@@ -9,7 +9,7 @@
 * 💻  Мне нравится писать код.
 * ✒️  Я постоянно учусь новому
 * ✉️  Моя почта для связи [alexnn0987@mail.ru](mailto:alexnn0987@mail.ru)
-* 🚀  В настоящее время работаю над проектом [bruneco](http://github.com/lad-academy/bruneco)
+* 🚀  В настоящее время работаю над проектом [yoreactions](https://yoreactions.lad-academy.ru/)
 * 🧠  На данный момент изучаю React
 
 <br />
@@ -62,7 +62,7 @@
 ## Мои проекты
 ------------------
 
-* <a href="https://bruneco.ru/" target="_blank">bruneco.ru</a>
+* <a href="https://bruneco.ru/" target="_blank">bruneco.ru</a> - <a href="http://github.com/lad-academy/bruneco" target="_blank">( исходный код )</a>
 * <a href="https://alexnn0987.github.io/layout-5__Sputnik-adaptiv/" target="_blank">Sputnik</a> - <a href="https://github.com/Alexnn0987/layout-5__Sputnik-adaptiv" target="_blank">( исходный код )</a>
 * <a href="https://alexnn0987.github.io/layout-4__ads-hiBrain/" target="_blank">hiBrain - Объявления</a> - <a href="https://github.com/Alexnn0987/layout-4__ads-hiBrain" target="_blank">( исходный код )</a>
 * <a href="https://alexnn0987.github.io/layout-3__new-hiBrain/" target="_blank">hiBrain - Доска объявлений</a> - <a href="https://github.com/Alexnn0987/layout-3__new-hiBrain" target="_blank">( исходный код )</a>
